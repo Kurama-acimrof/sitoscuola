@@ -1,5 +1,5 @@
 # sitoscuola
 progetto di gruppo A - B - C
- - Cacchione Antonio: login reggistro; percorsi di studio;
+ - Cacchione Antonio: login registro; percorsi di studio;
  - Glava Raffaele: offerta formativa; home;
- - Di Gennaro Antionio : tabbella orari;
+ - Di Gennaro Antionio : tabella orari;
